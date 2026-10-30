@@ -1,7 +1,4 @@
-# Study Buddy Chat — Python-only Multimodal Chatbot
-
-A complete beginner-friendly project for the Module 3 multimodal chatbot lab. **Both frontend and backend are Python.** The UI is built with Streamlit; the API is built with FastAPI. There are no custom JavaScript, HTML, CSS, or Node.js files.
-
+#Multimodal AI  Chatbot
 ## Features
 - Text conversation with a multimodal Gemini model
 - Image upload and question answering (JPG, JPEG, PNG, WebP)
@@ -13,7 +10,7 @@ A complete beginner-friendly project for the Module 3 multimodal chatbot lab. **
 
 ## Project structure
 ```text
-study-buddy-python/
+multimodel chat bot 
 ├── backend/
 │   ├── config.py          # server-side environment configuration
 │   ├── main.py            # FastAPI routes and upload validation
